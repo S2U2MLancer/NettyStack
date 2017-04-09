@@ -1,4 +1,4 @@
-package com.slancer.svr;
+package slancer.nettystack.host.http;
 
 /**
  * Created by ashley on 17-4-7.

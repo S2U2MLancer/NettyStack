@@ -1,0 +1,5 @@
+rootProject.name = 'NettyStack'
+
+// Include all projects except Demo
+include 'HttHost'
+include 'TCPHost'

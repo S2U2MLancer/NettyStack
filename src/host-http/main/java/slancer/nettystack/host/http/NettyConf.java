@@ -1,4 +1,4 @@
-package com.slancer.svr;
+package slancer.nettystack.host.http;
 
 
 import java.net.InetSocketAddress;

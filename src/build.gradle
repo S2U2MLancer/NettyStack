@@ -1,0 +1,9 @@
+allprojects {
+    // group = 'slancer.nettystack'
+    version = '0.1'
+}
+
+subprojects {
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+}
