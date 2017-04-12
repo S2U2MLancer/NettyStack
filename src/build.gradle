@@ -1,0 +1,17 @@
+allprojects {
+    // group = 'slancer.nettystack'
+    version = '0.1'
+
+    repositories {
+        mavenLocal()
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        mavenCentral()
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+}
