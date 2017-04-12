@@ -1,9 +1,7 @@
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.socket.SocketChannel;
-import junit.framework.Test;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
-import com.slancer.svr.HttpSvr;
+import slancer.nettystack.host.http.HttpSvr;
 
 
 /**

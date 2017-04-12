@@ -1,0 +1,10 @@
+
+## Ignore Dir
+.gradle/
+.metadata/
+.recommenders/
+.settings/
+
+# Output
+bin/
+build/
